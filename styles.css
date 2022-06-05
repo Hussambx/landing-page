@@ -27,3 +27,36 @@ h1{
     margin-right: 10px;
 }
 
+.second-area{
+   padding-top: 100px;
+   display: flex;
+
+
+    gap:0;
+}
+.secondary{
+   margin: 0;
+   flex:1;
+   margin: 0;
+   justify-content: center;
+  
+}
+img{
+    width: 50%;
+    height: width;
+    margin-right: 65%;
+    margin-left: 0%;
+}
+h2{
+    margin-left: 65%;
+    margin-right: 2%;
+    text-align: center;
+    font-size: 60px;
+    color: blue;
+}
+.boom{
+    margin-left: 65%;
+    
+    margin-right: 2%;
+    text-align: center;
+}
