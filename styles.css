@@ -22,7 +22,8 @@
 h1{
     margin-right: 100px;
 }
-p{
+#options p{
     display: inline-block;
     margin-right: 10px;
 }
+
