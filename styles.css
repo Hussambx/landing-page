@@ -148,3 +148,8 @@ width: 230px;
     padding-top: 100px;
     padding-bottom: 100px;
 }
+.rights{
+    text-align: center;
+    background-color: grey;
+    color:white
+}
